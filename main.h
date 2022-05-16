@@ -48,7 +48,6 @@ int print_char(va_list valist);
 int print_string(va_list valist);
 int print_rot13(va_list valist);
 int _puts(char *str);
-int print_rev(va_list valist);
 
 /* print integer */
 int print_int(va_list valist);
@@ -77,4 +76,5 @@ int get_sign(char s, sign_t *f);
 
 /* print address */
 int print_address(va_list valist);
+
 #endif
