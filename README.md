@@ -156,7 +156,7 @@ Function That Prints Decimal In Uppercase Hexadecimal.
 /* Indetifier : %X */
 ```
 
-------------
+----------++++++------------
 
 ### print_usr.c
 Function That Prints A String And Values Of Non-Printed Chars.
